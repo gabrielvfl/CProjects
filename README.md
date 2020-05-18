@@ -1,4 +1,4 @@
-# 📊 About the Project
+# 💻 About the Project
 This repository aims share with my public my work with C programming language.
 
 ![tenor](https://user-images.githubusercontent.com/65509407/82249165-ac2eb700-991f-11ea-93de-ab4c3f91c2af.gif)
